@@ -1,3 +1,5 @@
+// JSON budget data stored as a Dart string constant
+const String budgetDataJson = r'''
 [
   {
     "username": "abi",
@@ -11,3 +13,4 @@
     ]
   }
 ]
+''';
